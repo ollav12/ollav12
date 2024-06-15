@@ -43,7 +43,7 @@ My journey in computer security has led me to develop a passion for cybersecurit
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
 </div>
 
-### Technologies
+### Other
 <div>
 <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
