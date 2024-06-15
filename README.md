@@ -49,5 +49,5 @@ My journey in computer security has led me to develop a passion for cybersecurit
 
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Project</a>
 - SOC Automation Project
