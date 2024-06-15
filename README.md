@@ -10,10 +10,10 @@ My journey in computer security has led me to develop a passion for cybersecurit
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Preforming an SQl, XXS and CSRF attack and mitigating the related vulnerabilites        | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
-| XXS injection attack and vulnerability fix | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
-| Implementing safe password storage & password requirements       | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Preforming an SQL, XXS and CSRF attack and mitigating the related vulnerabilites        | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
+| Creating a threat model for the website | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
+| Implementing a simple access control scheme and safe password storage       | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
+| I conducted a security analysis of a peer's project, focusing on injection vulnerabilities and secure coding practices, and provided recommendations for improvements.     | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
