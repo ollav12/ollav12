@@ -45,7 +45,10 @@ My journey in computer security has led me to develop a passion for cybersecurit
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-1ABC9C?style=for-the-badge" />
+
 </div>
+
 
 ## Projects
 - Detection Lab
