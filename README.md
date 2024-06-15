@@ -10,9 +10,9 @@ My journey in computer security has led me to develop a passion for cybersecurit
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| SQL injection attack and vulnerability fix          | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
+| XXS injection attack and vulnerability fix | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
+| Implementing safe password storage & password requirements       | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
