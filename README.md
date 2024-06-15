@@ -14,8 +14,8 @@ My journey in computer security has led me to develop a passion for cybersecurit
 | Creating a threat model for the website | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security - Threat model</a>|
 | Implementing a simple access control scheme and safe password storage       | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security - Access control</a>|
 | Security analysis of a peer's project, focusing on injection vulnerabilities and secure coding practices, and provided recommendations for improvements.     | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security - Security analysis</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Software design following SOLID-principles and using MVC architecture                  | <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">MegaMarius Game Project</a>|
+| Collaborating in team using variuous techniques like pair programming and kaban | <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">MegaMarius Game Project</a>|
 
 ## Tools
 
