@@ -51,3 +51,4 @@ My journey in computer security has led me to develop a passion for cybersecurit
 ## Projects
 - <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Project</a>
 - SOC Automation Project
+- <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">MegaMarius Game Project</a>
