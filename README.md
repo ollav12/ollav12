@@ -33,6 +33,9 @@ My journey in computer security has led me to develop a passion for cybersecurit
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6347?style=for-the-badge&logo=burp%20suite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-E6494F?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-3F4551?style=for-the-badge&logo=metasploit&logoColor=white" />
+
 </div>
 
 
