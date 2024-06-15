@@ -10,10 +10,10 @@ My journey in computer security has led me to develop a passion for cybersecurit
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Preforming an SQL, XXS and CSRF attack and mitigating the related vulnerabilites        | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security - Injection</a>|
+| Preforming an SQL, XXS and CSRF attack and mitigating the related vulnerabilites        | <a href="https://github.com/ollav12/web-security-project/blob/main/README.md" target="_blank"> Web Security - Injection</a>|
 | Creating a threat model for the website | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security - Threat model</a>|
-| Implementing a simple access control scheme and safe password storage       | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security - Access control</a>|
-| Security analysis of a peer's project, focusing on injection vulnerabilities and secure coding practices, and provided recommendations for improvements.     | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security - Security analysis</a>|
+| Implementing a simple access control scheme and safe password storage       | <a href="https://github.com/ollav12/web-security-project/blob/main/README.md" target="_blank"> Web Security - Access control</a>|
+| Security analysis of a peer's project, focusing on injection vulnerabilities and secure coding practices, and provided recommendations for improvements.     | <a href="https://github.com/ollav12/web-security-project/blob/main/README.md" target="_blank"> Web Security - Security analysis</a>|
 | Software development following SOLID-principles and using MVC architecture                  | <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">MegaMarius Game - Software Development</a>|
 | Collaborating in team using variuous techniques like pair programming and kaban | <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">MegaMarius Game - Pair programming & Kaban</a>|
 
@@ -49,6 +49,6 @@ My journey in computer security has led me to develop a passion for cybersecurit
 
 
 ## Projects
-- <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Project</a>
+- <a href="https://github.com/ollav12/web-security-project/blob/main/README.md" target="_blank"> Web Security Project</a>
 - SOC Automation Project
 - <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">MegaMarius Game Project</a>
