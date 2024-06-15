@@ -37,7 +37,6 @@ My journey in computer security has led me to develop a passion for cybersecurit
 <img src="https://img.shields.io/badge/-Metasploit-3F4551?style=for-the-badge&logo=metasploit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hydra-6E4C13?style=for-the-badge&logo=hydra&logoColor=white" />
 <img src="https://img.shields.io/badge/-Go%20Buster-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-
 </div>
 
 
@@ -46,9 +45,9 @@ My journey in computer security has led me to develop a passion for cybersecurit
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-</div>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
 
 ### Other
 <div>
