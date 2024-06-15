@@ -51,6 +51,7 @@ My journey in computer security has led me to develop a passion for cybersecurit
 <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Virtual%20Machine-2ECC71?style=for-the-badge&logo=virtualbox&logoColor=white" />
 
 </div>
 
