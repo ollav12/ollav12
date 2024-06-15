@@ -29,7 +29,7 @@ My journey in computer security has led me to develop a passion for cybersecurit
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-### Security Analysis tools
+### Cybersecurity tools
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Burp%20Suite-FF6347?style=for-the-badge&logo=burp%20suite&logoColor=white" />
