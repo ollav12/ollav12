@@ -17,7 +17,7 @@ My journey in computer security has led me to develop a passion for cybersecurit
 | Software development following SOLID-principles and using MVC architecture                  | <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">MegaMarius Game - Software Development</a>|
 | Collaborating in team using variuous techniques like pair programming and kaban | <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">MegaMarius Game - Pair programming & Kaban</a>|
 | Encryption and decryption various ciphers like Vigenere, Hash, RSA, OpenSSL, Salting               | <a href="https://github.com/ollav12/Cybersecurity/blob/main/Other/Introduction%20to%20Cybersecurity%20labs/INF140-MA1-oop008.pdf" target="_blank">Intro Cybersecurity - Cryptology</a>|
-| Software development following SOLID-principles and using MVC architecture                  | <a href="https://git.app.uib.no/Christoffer.Slettebo/ctrl-alt-defeat" target="_blank">Intro Cybersecurity - Kali Linux</a>|
+| Software development following SOLID-principles and using MVC architecture                  | <a href="https://github.com/ollav12/Cybersecurity/blob/main/Other/Introduction%20to%20Cybersecurity%20labs/INF140-MA2-oop008.pdf" target="_blank">Intro Cybersecurity - Kali Linux</a>|
 | Writeups for CTF's and Labs from TryHackMe, HackTheBox and more | <a href="https://github.com/ollav12/Cybersecurity/tree/main" target="_blank">Writeups</a>|
 
 
