@@ -45,7 +45,9 @@ My journey in computer security has led me to develop a passion for cybersecurit
 ### Programming Languages
 
 ### OS
-
+<div>
+<img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</div>
 
 ## Certifications
 <div>
