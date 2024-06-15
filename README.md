@@ -10,7 +10,7 @@ My journey in computer security has led me to develop a passion for cybersecurit
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL injection attack and vulnerability fix          | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
+| Preforming an SQl, XXS and CSRF attack and mitigating the related vulnerabilites        | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
 | XXS injection attack and vulnerability fix | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
 | Implementing safe password storage & password requirements       | <a href="https://github.com/ollav12/web-security-lab/blob/main/README.md" target="_blank"> Web Security Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
