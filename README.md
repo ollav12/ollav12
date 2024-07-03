@@ -23,12 +23,6 @@ My journey in computer security has led me to develop a passion for cybersecurit
 
 ## Tools
 
-### SIEM
-<div>
-<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-
 ### Cybersecurity tools
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -51,7 +45,6 @@ My journey in computer security has led me to develop a passion for cybersecurit
 
 ### Other
 <div>
-<img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Virtual%20Machine-2ECC71?style=for-the-badge&logo=virtualbox&logoColor=white" />
@@ -62,8 +55,6 @@ My journey in computer security has led me to develop a passion for cybersecurit
 <div>
   <a href="https://github.com/ollav12/Cybersecurity/blob/main/Other/Google%20Cybersecurity/GoogleCybersecurityCertificate_Badge20240615-6-dnha0n.pdf" targer="_blank">
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-1ABC9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft%20azure&logoColor=white" />
 </div>
 
 
