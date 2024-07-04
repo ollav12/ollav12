@@ -5,7 +5,7 @@ I am a recent graduate with a deep passion for cybersecurity and strong commitme
 
 ## Objective
 
-My journey in computer security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My journey in computer security has led me to develop a passion for IT and Cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
 | Skill                                         | Associated Project         |
